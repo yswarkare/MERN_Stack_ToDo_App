@@ -1,2 +1,5 @@
-# MERN_Stack_ToDo_App
-A To do app using MongoDB, Express, React, Node.js
+___
+## MERN_Stack_ToDo_App
+___
+**A To do app using MongoDB, Express, React, Node.js**
+___
